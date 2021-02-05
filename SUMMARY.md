@@ -4,6 +4,6 @@
 
 ## February
 
-* [Wed/03](feb/3.md)
-* [Thu/04](feb/4.md)
+* [Wed/03](feb/03.md)
+* [Thu/04](feb/04.md)
 
