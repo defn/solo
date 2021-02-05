@@ -1,9 +1,9 @@
 # Table of contents
 
-* [Cool beans](README.md)
+* [Solo Hardcore Leveling](README.md)
 
 ## February
 
-* [Wednesday](feb/3.md)
-* [Thursdays](feb/4.md)
+* [Wed/03](feb/3.md)
+* [Thu/04](feb/4.md)
 
