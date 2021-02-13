@@ -1,9 +1,7 @@
 # Table of contents
 
-* [Solo Hardcore Leveling](README.md)
-* [February 2021](february-2021/README.md)
-  * [Sat/06](february-2021/06.md)
-  * [Fri/05](february-2021/05.md)
-  * [Thu/04](february-2021/04.md)
-  * [Wed/03](february-2021/03.md)
-
+* [solo](README.md)
+* [Sat/06](2021-02-06.md)
+* [Fri/05](2021-02-05.md)
+* [Thu/04](2021-02-04.md)
+* [Wed/03](2021-02-03.md)
