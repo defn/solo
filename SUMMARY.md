@@ -1,6 +1,5 @@
 # Table of contents
 
-* [00](README.md)
 * [42](42.md)
 * [41](41.md)
 * [37](37.md)
